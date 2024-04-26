@@ -1,7 +1,8 @@
 -   [Tips for tutorials and skillmaps](tutorial-skillmap-tips.html)
 -   Building a custom skillmap
-    -    Part I: Getting started
+    -    [Part I: Getting started](custom-skillmap-1.html)
     -    Part II: Creating an asset pack
     -    Part III: Writing your first tutorial
     -    Part IV: Writing the remaining tutorials in the skillmap
     -    Part V: Assembling the skillmap
+    -    Part VI: Additional resources
