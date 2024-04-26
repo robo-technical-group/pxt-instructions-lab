@@ -5,5 +5,5 @@
     -   3ème partie : Rédaction de votre premier tutoriel
     -   4ème partie : Rédaction des tutoriels restants dans le skillmap
     -   5ème partie : Assembler le skillmap
-    -   6ème partie : Ressources supplémentaires
+    -   [6ème partie : Ressources supplémentaires](skillmap-personnalisee-6.html)
     

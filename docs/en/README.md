@@ -5,4 +5,4 @@
     -    Part III: Writing your first tutorial
     -    Part IV: Writing the remaining tutorials in the skillmap
     -    Part V: Assembling the skillmap
-    -    Part VI: Additional resources
+    -    [Part VI: Additional resources](custom-skillmap-6.html)
