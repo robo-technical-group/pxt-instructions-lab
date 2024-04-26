@@ -1,6 +1,8 @@
 # Building a custom skillmap
 # Part II: Creating an asset pack
 
+[Video tutorial on YouTube](https://youtu.be/ikz15E24F2k?si=_e3IJRTDBVqUSKFA)
+
 In step 4 of Part I, you created the final version of the project that your students will create in your skillmap and tutorials. If your project includes custom assets (*e.g.*, backgrounds, sprite images and animations, sound effects, melodies), then you should create an *asset pack* that you can import into your tutorials. You will create that project in this article.
 
 If your project does not contain custom assets (perhaps you want your students to customize the project with their own art), then you can skip this article.

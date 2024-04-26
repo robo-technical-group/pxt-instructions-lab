@@ -1,6 +1,8 @@
 # Création d'un skillmap personnalisée
 # Deuxième partie : Création d'un pack de ressources
 
+[Tutoriel vidéo sur YouTube](https://youtu.be/ikz15E24F2k?si=_e3IJRTDBVqUSKFA)
+
 À l'étape 4 de la première partie, vous avez créé la version finale du projet que vos élèves créeront dans votre skillmap et vos tutoriels. Si votre projet comprend des ressources personnalisées (par exemple, des arrière-plans, des images et des animations de sprites, des effets sonores, des mélodies), vous devez créer un *pack de ressources* que vous pouvez importer dans vos tutoriels. Vous allez créer ce projet dans cet article.
 
 Si votre projet ne contient pas de ressources personnalisées (vous souhaitez peut-être que vos élèves personnalisent le projet avec leur propre art), vous pouvez ignorer cet article.
