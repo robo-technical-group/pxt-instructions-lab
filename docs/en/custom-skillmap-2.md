@@ -18,11 +18,11 @@ Follow these steps to create a GitHub repository by using the MakeCode interface
 1.   Open the MakeCode editor that you will be using in your tutorials.
 1.   Create a new project. **Note**: The project name must conform to JavaScript naming rules---the name can contain only letters, underscores, and numbers; the name must start with a letter.
 1.   Select the GitHub logo at the bottom of the screen to create a GitHub repository.
-     ![Figure one. Screenshot of MakeCode Arcade with the GitHub logo at the bottom of the screen highlighted.](images/editor-github-button.png)
+     ![Figure one. Screenshot of MakeCode Arcade with the GitHub logo at the bottom of the screen highlighted.](/pxt-instructions-lab/assets/images/editor-github-button.png)
 1.   Sign into GitHub if you have not done so already.
 1.   Verify the name and description for your repository.
 1.   Select the **Go ahead!** button.
-     ![Figure two. Screenshot of MakeCode Arcade creating a GitHub repository.](images/create-github-repository.png)
+     ![Figure two. Screenshot of MakeCode Arcade creating a GitHub repository.](/pxt-instructions-lab/assets/images/create-github-repository.png)
 
 Congratulations! You have created your asset pack repository and you can edit it in MakeCode!
 
@@ -36,18 +36,18 @@ Follow these steps to create a GitHub repository using their web interface. Then
      -   **Note**: The project name must conform to JavaScript naming rules---the name can contain only letters, underscores, and numbers; the name must start with a letter.
      -   **Also note**: The repository must be public. *Do not* create a private repository.
 1.   After creating the repository, copy its Git URL.
-     ![Figure three. Screenshot of the GitHub web site. The **Code** button has been selected, and the button to copy the Git URL is highlighted.](images/github-copy-git-url.png)
+     ![Figure three. Screenshot of the GitHub web site. The **Code** button has been selected, and the button to copy the Git URL is highlighted.](/pxt-instructions-lab/assets/images/github-copy-git-url.png)
 1.   Open the MakeCode editor that you will be using in your tutorials.
 1.   On the MakeCode home page, select the **Import** buton.
-     ![Figure four. MakeCode editor with the **Import** button highlighted.](images/editor-github-button.png)
+     ![Figure four. MakeCode editor with the **Import** button highlighted.](/pxt-instructions-lab/assets/images/editor-github-button.png)
 1.   Select the **Import URL...** option.
 1.   Paste your GitHub repository's URL.
 1.   Select the **Go ahead!** button.
 1.   When the empty MakeCode project is created, select the GitHub button at the bottom of the screen.
-     ![Figure five. Screenshot of MakeCode Arcade with the GitHub logo at the bottom of the screen highlighted.](images/editor-github-button.png)
+     ![Figure five. Screenshot of MakeCode Arcade with the GitHub logo at the bottom of the screen highlighted.](/pxt-instructions-lab/assets/images/editor-github-button.png)
 1.   Enter a description describing your commit (*e.g.*, "Initial MakeCode Arcade files").
 1.   Select the **Commit and push changes** button.
-     ![Figure six. Screenshot of MakeCode Arcade showing the GitHub repository management screen. The **Commit and push changes** button is highlighted.](images/editor-github-commit.png)
+     ![Figure six. Screenshot of MakeCode Arcade showing the GitHub repository management screen. The **Commit and push changes** button is highlighted.](/pxt-instructions-lab/assets/images/editor-github-commit.png)
 
 Congratulations! You have created your asset pack repository and you can edit it in MakeCode!
 
@@ -59,7 +59,7 @@ Follow these steps to configure your project as an asset pack.
 1.   If the project opens in the Blocks interface, then switch to the JavaScript editor.
 1.   In the project explorer beneath the simulator, open the `pxt.json` file.
 1.   Select the **Edit Settings As text** button.
-     ![Figure seven. Screenshot of MakeCode Arcade with the project editor open. The `pxt.json` file is selected.](images/editor-edit-pxt-json.png)
+     ![Figure seven. Screenshot of MakeCode Arcade with the project editor open. The `pxt.json` file is selected.](/pxt-instructions-lab/assets/images/editor-edit-pxt-json.png)
 1.   Add the property in the code snippet below. A good place is beneath the `description` property. Note the comma at the end; it is important. Keep in mind that the MakeCode editor may rearrange the properties. The order in which they appear is not important.
      ```json
      "assetPack": true,
@@ -75,7 +75,7 @@ Now, using the tools built into the editor, add the assets needed by your tutori
 
 1.   Select the **Assets** button to switch to the assets manager.
 1.   Select the green button to add an asset.
-     ![Figure eight. A screenshot of the assets manager in MakeCode Arcade.](images/editor-assets-manager.png)
+     ![Figure eight. A screenshot of the assets manager in MakeCode Arcade.](/pxt-instructions-lab/assets/images/editor-assets-manager.png)
 1.   Select the type of asset that you are creating.
 1.   Create the asset using the appropriate editor.
 1.   Be sure to give the asset a name! Follow JavaScript naming requirements.
@@ -86,7 +86,7 @@ Whenever you create assets in your project, you need to publish your changes usi
 
 1.   Commit and push your changes to the GitHub repo. (Refer to the instructions in **option two** earlier in this article.)
 1.   In the **Release zone** section, select the **Create release** button.
-     ![Figure nine. A screenshot of the GitHub repository manager in MakeCode Arcade.](images/editor-github-releases.png)
+     ![Figure nine. A screenshot of the GitHub repository manager in MakeCode Arcade.](/pxt-instructions-lab/assets/images/editor-github-releases.png)
 
 Each time you update the repository with new or updated assets, it is important to create a new release. This will help the MakeCode servers provide the most recent version of your repository to your students.
 
