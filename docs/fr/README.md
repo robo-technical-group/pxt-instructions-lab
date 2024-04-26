@@ -1,1 +1,7 @@
-- [Des conseils pour les tutoriels et les skillmaps](conseils-tutoriels-skillmaps.html)
+-   [Des conseils pour les tutoriels et les skillmaps](conseils-tutoriels-skillmaps.html)
+-   Création d'un skillmap personnalisée
+    -   1ère partie : Mise en route
+    -   2ème partie : Création d’un pack de ressources
+    -   3ème partie : Rédaction de votre premier tutoriel
+    -   4ème partie : Rédaction des tutoriels restants dans le skillmap
+    -   5ème partie : Assembler le skillmap
