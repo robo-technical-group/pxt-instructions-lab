@@ -10,3 +10,4 @@ A few tips that I have discovered while working with tutorials and skillmaps.
 -   You can use another git management tool (*e.g.*, GitHub CLI, Visual Studio Code) to push assets used in your tutorials and skillmaps (*e.g.*, images) to your GitHub repo.
 -   Use a MakeCode editor to push new releases of your project. Creating a release using standard git tools will not purge cached data from MakeCode's servers.
 -   If a tutorial or skillmap uses custom assets (*e.g.*, background images, sprite animations, melodies), then create a separate repository to serve as an "asset pack."
+-   Skillmaps must have template code in each tutorial in order for students to be able to retain their code along each path. Refer to [Richard's post at the MakeCode forum](https://forum.makecode.com/t/tutorial-creators/19464/60) for more information.
